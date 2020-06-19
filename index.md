@@ -3,7 +3,9 @@ layout: home
 ---
 # About Me
 
-<img src="images/me_christmastree.jpeg" alt="Me" title="Me" width="150" height="100" />
+![](images/me_christmastree.jpeg)
+
+<img src="images/me_christmastree.jpeg" alt="Me" title="Me" width="450" height="400" />
 
 
 
