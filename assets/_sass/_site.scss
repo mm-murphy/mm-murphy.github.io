@@ -46,7 +46,7 @@ canvas {
   z-index: 0;
 }
 
-.projects-menu-icon {
+.links-menu-icon {
   position: absolute;
   top: 30px;
   right: 30px;
@@ -140,7 +140,7 @@ canvas {
 }
 
 .posts-link,
-.projects-link {
+.links-link {
   position: absolute;
   top: 73px;
   font-size: 12px;
@@ -151,7 +151,7 @@ canvas {
   right: 90px;
 }
 
-.projects-link {
+.links-link {
   right: 20px;
 }
 
@@ -170,7 +170,7 @@ canvas {
   }
 }
 
-.projects-menu {
+.links-menu {
   font-size: 0;
   height: 100%;
   > li {
@@ -776,7 +776,7 @@ canvas {
   .section-title {
     font-size: 80px;
   }
-  .projects-menu li {
+  .links-menu li {
     width: 100% !important;
     height: 50% !important;
   }
