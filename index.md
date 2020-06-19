@@ -5,7 +5,7 @@ layout: home
 
 ![](images/me_christmastree.jpeg)
 
-<img src="images/me_christmastree.jpeg" alt="Me" title="Me" width="450" height="400" />
+
 
 
 
