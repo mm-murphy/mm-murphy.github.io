@@ -3,7 +3,7 @@ layout: home
 ---
 # About Me
 
-<img src="/images/me_christmasgree.jpeg" alt="Me" title="Me" width="150" height="100" />
+<img src="images/me_christmastree.jpeg" alt="Me" title="Me" width="150" height="100" />
 
 
 
